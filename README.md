@@ -8,7 +8,7 @@ I’m a **Master's Finalist in Computer Science and Engineering** with a passion
 - 🎓 I hold a BSc in Computer Science and Engineering from [ISEL](https://www.isel.pt/en/curso/bsc-degree/computer-science-and-computer-engineering)
 - 💼 **IT Manager** at **Academia Ubuntu Rugby**: Leading IT operations and web development
 - 🔧 Member of the **Projects Department** at **In-Nova**: Collaborating on full-stack projects using the latest technologies
-- 🔍 Exploring **Web Development**, **Artificial intelligence** and **Cloud Computing**
+- 🔍 Exploring `Web Development`, `Artificial Intelligence` and `Cloud Computing`
 
 ## ⚡ Tech Stack
 
