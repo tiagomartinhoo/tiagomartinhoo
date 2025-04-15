@@ -49,8 +49,8 @@ I’m a **Master's Finalist in Computer Science and Engineering** with a passion
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagomartinhoo&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagomartinhoo&count_private=true&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-stats-beige.vercel.app/api?username=tiagomartinhoo&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-stats-beige.vercel.app/api/top-langs/?username=tiagomartinhoo&layout=compact&hide=Jupyter%20Notebook&theme=algolia" alt="GitHub Languages" />
 </p>
 
 
