@@ -7,8 +7,8 @@ I’m a **Master's Finalist in Computer Science and Engineering** with a passion
 - 🌱 Currently working on my MSc at [NOVA SST](https://www.fct.unl.pt/en/education/course/masters-computer-science-and-engineering)
 - 🎓 I hold a BSc in Computer Science and Engineering from [ISEL](https://www.isel.pt/en/curso/bsc-degree/computer-science-and-computer-engineering)
 - 💼 **IT Manager** at **Academia Ubuntu Rugby**: Leading IT operations and web development
-- 🔧 Member of the **Projects Department** at **In-Nova**: Collaborating on full-stack projects using the latest technologies
-- 🔍 Exploring `Web Development`, `Artificial Intelligence` and `Cloud Computing`
+- 🔧 **Project Manager** at **In-Nova**: Leading cross-functional teams on full-stack projects using modern technologies
+- 🔍 Exploring `Web Development`, `Computer Vision` and `Cloud Computing`
 
 ## ⚡ Tech Stack
 
@@ -49,8 +49,8 @@ I’m a **Master's Finalist in Computer Science and Engineering** with a passion
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-beige.vercel.app/api?username=tiagomartinhoo&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <img src="https://github-stats-beige.vercel.app/api/top-langs/?username=tiagomartinhoo&layout=compact&hide=Jupyter%20Notebook&theme=algolia" alt="GitHub Languages" />
+  <img src="https://github-stats-beige.vercel.app/api?username=tiagomartinhoo&show_icons=true&theme=algolia" alt="GitHub Stats" height="192px" />
+  <img src="https://github-stats-beige.vercel.app/api/top-langs/?username=tiagomartinhoo&layout=compact&langs_count=10&hide=Jupyter%20Notebook&theme=algolia" alt="GitHub Languages" height="192px" />
 </p>
 
 
